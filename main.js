@@ -432,7 +432,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
                 selector: 'app-root',
-                templateUrl: './index.html'
+                templateUrl: '.././index.html'
             }]
     }], null, null); })();
 
