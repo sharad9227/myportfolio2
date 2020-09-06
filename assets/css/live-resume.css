@@ -316,12 +316,12 @@ main {
       align-items: center;
       justify-content: center; }
     main .service-card .service-title {
-      font-size: 12px;
+      font-size: 16px;
       font-weight: bold;
       line-height: 1;
       margin-bottom: 8px; }
     main .service-card .service-description {
-      font-size: 10px;
+      font-size: 14px;
       font-weight: 300;
       max-width: 180px;
       margin-bottom: 0; }
